@@ -29,4 +29,4 @@ This project analyzes customer churn in a telecom company to identify key factor
 - Project Screenshot
 
 ## 🔗 Author
-Your Name
+Smruti Pragyan Sahoo
