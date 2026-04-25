@@ -20,7 +20,7 @@ This project analyzes customer churn in a telecom company to identify key factor
 - Electronic check users have higher churn
 
 ## 📷 Dashboard Preview
-![Dashboard](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d16636a8-3a92-406f-953e-948030e1c8fa" />
+![Dashboard]<img width="1128" height="632" alt="power-bi" src="https://github.com/user-attachments/assets/aedfb404-2e04-4427-b0de-ffeb8ab48727" />
 
 ## 📁 Files Included
 - Power BI Dashboard (.pbix)
